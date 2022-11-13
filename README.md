@@ -85,7 +85,12 @@ Pero queremos deshacer nuestros cambios y ponerlo como está en el main. Por ell
 Que vuelve a nuestra versión anterior.
 
 
+
 # Practica parte 2 con gitlab
+
+[Enlance al repositorio de gitlab](https://gitlab.com/michael866/EntornosGitlab)
+
+
 ## Creamos un repositorio el cual utilizaremos de para entorno de nuestro trabajo
 ![image](https://user-images.githubusercontent.com/114613053/201421279-dff3b20b-8874-4641-969b-c209a0011c40.png)
 
